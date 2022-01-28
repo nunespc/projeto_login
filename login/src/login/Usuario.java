@@ -20,8 +20,11 @@ public class Usuario {
 		}else{
 			System.out.println("Por favor Verificar usuario ou senha invalido!");
 		}
+		
+		entrada.close();
 	
 	}
+
 	
 	
 
